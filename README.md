@@ -1,4 +1,4 @@
-# alpha
+# BrewCrew
 
 A new Flutter project.
 
